@@ -46,17 +46,7 @@ Ce projet est construit en utilisant les technologies et outils suivants :
 * **Design & Maquettage :** Figma, Canva
 * **Gestion de Projet :** Notion
 
----
 
-## 👥 L'Équipe
-
-| Membre | Rôle | Responsabilités |
-| :--- | :--- | :--- |
-| **Noé** | Développeur Lead | Développement Full-stack et architecture du site. |
-| **Louis** | Designer UI/UX | Identité visuelle, maquettes et expérience utilisateur. |
-| **Lucas** | Spécialiste QA | Assurance qualité, tests fonctionnels et recherche de bugs. |
-
----
 
 ## 📦 Installation & Configuration
 
