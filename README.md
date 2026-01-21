@@ -64,7 +64,7 @@ To run this project locally on your machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/GutChat.git](https://github.com/YourUsername/GutChat.git)
+    git clone [https://github.com/IamROxorg/GutChat.git](https://github.com/IamROxorg/GutChat.git)
     ```
 2.  **Database Setup:**
     * Import the provided SQL file into your database management tool.
@@ -76,7 +76,6 @@ To run this project locally on your machine:
 
 ## 📷 Screenshots
 
-*(Add screenshots of your application here once the design is implemented)*
 
 ---
 
