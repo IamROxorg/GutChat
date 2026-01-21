@@ -46,17 +46,7 @@ This project is built using the following technologies and tools:
 * **Design & Prototyping:** Figma, Canva
 * **Project Management:** Notion
 
----
 
-## 👥 The Team
-
-| Name | Role | Responsibilities |
-| :--- | :--- | :--- |
-| **Noé** | Lead Developer | Full-stack development and architecture. |
-| **Louis** | UI/UX Designer | Visual identity, layout design, and user experience. |
-| **Lucas** | QA Specialist | Quality assurance, bug hunting, and functionality testing. |
-
----
 
 ## 📦 Installation & Setup
 
