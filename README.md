@@ -1,72 +1,83 @@
 # 💬 GutChat
 
-**GutChat** is a lightweight social networking platform designed to connect users through a simple and intuitive interface. This project aims to demonstrate the core architectural principles of a social media application, focusing on usability and essential communication features.
+**GutChat** est une plateforme de réseau social légère, conçue pour connecter les utilisateurs via une interface simple et intuitive. Ce projet vise à démontrer les principes fondamentaux de l'architecture d'une application sociale, en mettant l'accent sur l'expérience utilisateur et les fonctionnalités de communication essentielles.
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Aperçu du Projet
 
-The primary goal of GutChat is to create a functional environment where users can:
-* **Connect:** Create profiles and interact with a community.
-* **Share:** Post updates and view content from others.
-* **Communicate:** Exchange private messages in real-time.
+L'objectif principal de GutChat est de créer un environnement fonctionnel où les utilisateurs peuvent :
+* **Se connecter :** Créer des profils et interagir avec une communauté.
+* **Partager :** Publier des statuts, des images et consulter le contenu des autres.
+* **Communiquer :** Échanger des messages privés en temps réel.
 
-The project emphasizes a clear, responsive design that works seamlessly across devices.
+Le projet privilégie un design clair et "Responsive", garantissant une utilisation fluide sur ordinateur comme sur mobile.
 
 ---
 
-## ✨ Key Features
+## ✨ Fonctionnalités Clés
 
-### 👤 User Management
-* **Authentication:** Secure Sign Up and Login systems.
-* **Profile Customization:** Users can set a profile picture, username, and biography.
-* **Settings:** Ability to update and edit personal information.
+### 👤 Gestion des Utilisateurs
+* **Authentification :** Systèmes sécurisés d'inscription et de connexion.
+* **Personnalisation du Profil :** Ajout de photo de profil, pseudo et biographie.
+* **Paramètres :** Possibilité de modifier ses informations personnelles.
 
-### 📰 Social Feed
-* **Posting:** Users can publish text-based messages or images.
-* **Interaction:** View, Like, and Comment on posts from the community.
-* **Global Feed:** A centralized stream displaying the latest activity.
+### 📰 Fil d'Actualité (Feed)
+* **Publication :** Envoi de messages textuels ou d'images.
+* **Interaction :** Consultation, "J'aime" (Like) et commentaires sur les publications.
+* **Flux Global :** Un flux centralisé affichant les dernières activités de la communauté.
 
-### 💬 Messaging System
-* **Direct Messaging:** Private conversations between friends.
-* *(Roadmap)*: Group chat functionality.
+### 💬 Système de Messagerie
+* **Messages Privés :** Conversations directes entre amis.
+* *(Roadmap)* : Fonctionnalité de chat de groupe (prévu pour une future version).
 
 ### 🎨 Interface (UI/UX)
-* **Responsive Design:** Fully adapted for both desktop and mobile usage.
-* **Intuitive Navigation:** Simple access to Home, Profile, and Messages.
+* **Design Responsive :** Interface adaptative pour tous les écrans.
+* **Navigation Intuitive :** Accès rapide à l'Accueil, au Profil et aux Messages.
 
 ---
 
-## 🛠 Technology Stack
+## 🛠 Stack Technique
 
-This project is built using the following technologies and tools:
+Ce projet est construit en utilisant les technologies et outils suivants :
 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Database:** MySQL / SQLite
-* **Design & Prototyping:** Figma, Canva
-* **Project Management:** Notion
+* **Frontend :** HTML5, CSS3, JavaScript
+* **Base de données :** MySQL / SQLite
+* **Design & Maquettage :** Figma, Canva
+* **Gestion de Projet :** Notion
 
+---
 
+## 👥 L'Équipe
 
-## 📦 Installation & Setup
+| Membre | Rôle | Responsabilités |
+| :--- | :--- | :--- |
+| **Noé** | Développeur Lead | Développement Full-stack et architecture du site. |
+| **Louis** | Designer UI/UX | Identité visuelle, maquettes et expérience utilisateur. |
+| **Lucas** | Spécialiste QA | Assurance qualité, tests fonctionnels et recherche de bugs. |
 
-To run this project locally on your machine:
+---
 
-1.  **Clone the repository:**
+## 📦 Installation & Configuration
+
+Pour lancer ce projet localement sur votre machine :
+
+1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/IamROxorg/GutChat.git](https://github.com/IamROxorg/GutChat.git)
+    git clone [https://github.com/VotrePseudo/GutChat.git](https://github.com/VotrePseudo/GutChat.git)
     ```
-2.  **Database Setup:**
-    * Import the provided SQL file into your database management tool.
-    * Configure the database connection settings in the project files.
-3.  **Launch:**
-    * Open the project via your local server (e.g., WAMP, XAMPP, or Live Server).
+2.  **Configuration de la Base de Données :**
+    * Importez le fichier SQL fourni dans votre gestionnaire de base de données.
+    * Configurez les paramètres de connexion dans les fichiers du projet.
+3.  **Lancement :**
+    * Ouvrez le projet via votre serveur local (ex: WAMP, XAMPP, ou Live Server).
 
 ---
 
-## 📷 Screenshots
+## 📷 Captures d'écran
 
+*(Ajoutez des captures d'écran de l'application ici une fois le design implémenté)*
 
 ---
 
-*This project was developed for educational purposes.*
+*Ce projet a été développé dans un cadre pédagogique.*
