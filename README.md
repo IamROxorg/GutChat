@@ -54,7 +54,7 @@ Pour lancer ce projet localement sur votre machine :
 
 1.  **Cloner le dépôt :**
     ```bash
-    git clone [https://github.com/VotrePseudo/GutChat.git](https://github.com/VotrePseudo/GutChat.git)
+    git clone [https://github.com/IamROxorg/GutChat.git](https://github.com/IamROxorg/GutChat.git)
     ```
 2.  **Configuration de la Base de Données :**
     * Importez le fichier SQL fourni dans votre gestionnaire de base de données.
